@@ -1,2 +1,2 @@
 # macosguides
-This repo contains more on random snippet guides or how-to's for MacOS.
+This repo contains random snippet guides or how-to's which I have formulated as I continue to use the MacOS.
